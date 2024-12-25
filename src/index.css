@@ -1,0 +1,27 @@
+/* src/index.css */
+
+/* Reset Styles */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+/* Global Styles */
+h1, h2, h3, h4, h5, h6 {
+  color: #333;
+  margin: 0 0 10px;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.container {
+  padding: 20px;
+}
